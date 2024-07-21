@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://irchoks.github.io/sitemap
+Sitemap: https://irchoks.github.io/app/sitemap
+Sitemap: https://irchoks.github.io/assets/sitemap
+Sitemap: https://irchoks.github.io/css/sitemap
+Sitemap: https://irchoks.github.io/includes/sitemap
+Sitemap: https://irchoks.github.io/item/sitemap
+Sitemap: https://irchoks.github.io/src/sitemap
